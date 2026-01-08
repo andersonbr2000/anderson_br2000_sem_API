@@ -1,0 +1,5 @@
+{
+  "name": "Torneio das Cores",
+  "description": "Um gerenciador completo de torneio de futebol para 4 equipes (Azul, Preto, Branco, Amarelo) com turno, returno, classificação automática e grande final.",
+  "requestFramePermissions": []
+}
